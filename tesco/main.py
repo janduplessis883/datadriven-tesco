@@ -1,6 +1,6 @@
 def hello():
-    print("Hello, I am ⭐️ Project-Nmae")
+    print("Hello, I am Tesco Package")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     hello()

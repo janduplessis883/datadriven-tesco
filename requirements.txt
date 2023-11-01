@@ -49,5 +49,14 @@ wandb
 streamlit 
 torch
 ipywidgets
-
 traitlets==5.9.0
+
+# Dependancies for AutoNote
+mysql.connector
+notion_client
+gspread
+icecream
+yellowbrick
+exchangelib
+textblob
+openai
